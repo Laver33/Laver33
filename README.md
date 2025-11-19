@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Pavel
+Mobile Developer specializing in Flutter | Learning Vue.js for web development
 
-<!--
-**Laver33/Laver33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Technologies
+**Mobile:** Flutter, Dart
+**Web:** Vue.js, JavaScript (learning)
+**Tools:** Git, VS Code
 
-Here are some ideas to get you started:
+### 🌍 Location & Languages
+- 📍 Grodno, Belarus
+- 🗣️ Russian (native), English (Elementary)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- **Mobile Developer** - 4 months
+- **Web Developer** - 6 months  
+- **QA Engineer** - 1 year total (4 months + 8 months freelance)
+
+### 📫 Let's Connect
+- Telegram: @TrueReady
+- Email: pad666444@gmail.com
