@@ -11,8 +11,8 @@ Mobile Developer specializing in Flutter | Learning Vue.js for web development
 - 🗣️ Russian (native), English (Elementary)
 
 ### 🎓 Learning Experience
-**Flutter Development** - 4 months of intensive learning and practice
-**Vue.js Development** - 6 months of hands-on projects and courses
+- **Flutter Development** - 4 months of intensive learning and practice
+- **Vue.js Development** - 6 months of hands-on projects and courses
 
 ### 💼 Commercial Experience
 - **QA Engineer** - 8 months ( freelance )
