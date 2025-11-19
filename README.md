@@ -10,10 +10,15 @@ Mobile Developer specializing in Flutter | Learning Vue.js for web development
 - 📍 Grodno, Belarus
 - 🗣️ Russian (native), English (Elementary)
 
+### 🎓 Learning Experience
+**Flutter Development** - 4 months of intensive learning and practice
+**Vue.js Development** - 6 months of hands-on projects and courses
+
+### 💼 Commercial Experience
+- **QA Engineer** - 8 months ( freelance )
+  
 ### 💼 Experience
-- **Mobile Developer** - 4 months
-- **Web Developer** - 6 months  
-- **QA Engineer** - 1 year total (4 months + 8 months freelance)
+- **QA Engineer** - 4 months
 
 ### 📫 Let's Connect
 - Telegram: @TrueReady
