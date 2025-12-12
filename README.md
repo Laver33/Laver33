@@ -2,7 +2,7 @@
 Mobile Developer specializing in Flutter | Learning Vue.js for web development
 
 ### 🛠️ Technologies
-**Mobile:** Flutter, Dart
+**Mobile:** Flutter, Dart (learning)
 **Web:** Vue.js, JavaScript (learning)
 **Tools:** Git, VS Code
 
@@ -11,14 +11,19 @@ Mobile Developer specializing in Flutter | Learning Vue.js for web development
 - 🗣️ Russian (native), English (Elementary)
 
 ### 🎓 Learning Experience
-- **Flutter Development** - 4 months of intensive learning and practice
-- **Vue.js Development** - 6 months of hands-on projects and courses
-
-### 💼 Commercial Experience
-- **QA Engineer** - 8 months ( freelance )
+**Flutter Development** - 4 months of intensive learning and practice
+  - Navigation with Go Router
+  - Local databases (Hive_ce, Shared Preferences)
+  - State management ( Riverpod ) ▶ Learning
+    
+**Vue.js Development** - 6 months of hands-on projects and courses
+  - Vue 3 Composition/Option API
+  - Vue Router
+  - JavaScript ( good ) | TypeScript ( base )
   
-### 💼 Experience
+### 💼 Experience / Commercial Experience
 - **QA Engineer** - 4 months
+- **QA Engineer** - 8 months ( freelance )
 
 ### 📫 Let's Connect
 - Telegram: @TrueReady
