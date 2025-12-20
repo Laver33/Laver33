@@ -22,7 +22,7 @@ Mobile Developer specializing in Flutter | Learning Vue.js for web development
   - JavaScript ( good ) | TypeScript ( base )
   
 ### 💼 Experience / Commercial Experience
-- **QA Engineer** - 4 months
+- **Auto QA Engineer** - 4 months
 - **QA Engineer** - 8 months ( freelance )
 
 ### 📫 Let's Connect
