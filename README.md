@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Pavel
-Mobile Developer specializing in Flutter | Learning Vue.js for web development
+Mobile Developer specializing in Flutter (stoped) | Learning React for web development
 
 ### 🛠️ Technologies
 **Mobile:** Flutter, Dart (learning)
-**Web:** Vue.js, JavaScript (learning)
+**Web:** React, JavaScript | TypeScript (learning)
 **Tools:** Git, VS Code
 
 ### 🌍 Location & Languages
@@ -11,15 +11,15 @@ Mobile Developer specializing in Flutter | Learning Vue.js for web development
 - 🗣️ Russian (native), English (Elementary)
 
 ### 🎓 Learning Experience
-**Flutter Development** - 4 months of intensive learning and practice
-  - Navigation with Go Router
-  - Local databases (Hive_ce, Shared Preferences)
-  - State management ( Riverpod ) ▶ Learning
     
-**Vue.js Development** - 6 months of hands-on projects and courses
-  - Vue 3 Composition/Option API
-  - Vue Router
+**React Development** - 6 months of hands-on projects and courses
+  - React base ( Components, props, Hoohs ( useState, useEffect, useContext )
+  - React router
+  - React Bootstrap | MUI
+  - Tanstack Query + Axios ( for api )
   - JavaScript ( good ) | TypeScript ( base )
+
+-> Learning Redux.
   
 ### 💼 Experience / Commercial Experience
 - **Auto QA Engineer** - 4 months
@@ -29,4 +29,4 @@ Mobile Developer specializing in Flutter | Learning Vue.js for web development
 - Telegram: @TrueReady
 - Email: pad666444@gmail.com
 
-🔄 Last update: November 2025
+🔄 Last update: February 2026
