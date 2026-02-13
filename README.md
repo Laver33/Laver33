@@ -19,7 +19,7 @@ Mobile Developer specializing in Flutter (stoped) | Learning React for web devel
   - Tanstack Query + Axios ( for api )
   - JavaScript ( good ) | TypeScript ( base )
 
--> Learning Redux.
+-> Learning Zustand.
   
 ### 💼 Experience / Commercial Experience
 - **Auto QA Engineer** - 4 months
