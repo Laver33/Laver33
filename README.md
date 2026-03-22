@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Pavel
-Mobile Developer specializing in Flutter (stoped) | Learning React for web development
+Web Developer (Frontend React) and QA 
 
 ### 🛠️ Technologies
-**Mobile:** Flutter, Dart (learning)
+**Mobile:** Flutter, Dart (stopped)
 **Web:** React, JavaScript | TypeScript (learning)
 **Tools:** Git, VS Code
 
@@ -12,21 +12,20 @@ Mobile Developer specializing in Flutter (stoped) | Learning React for web devel
 
 ### 🎓 Learning Experience
     
-**React Development** - 6 months of hands-on projects and courses
-  - React base ( Components, props, Hoohs ( useState, useEffect, useContext )
+**React Development** - 6 months of hands-on projects, courses and videos
+  - React base ( Components, props, Hooks ( useState, useEffect, useContext )
   - React router
-  - React Bootstrap | MUI
+  - React Bootstrap | MUI | Tailwind
   - Tanstack Query + Axios ( for api )
-  - JavaScript ( good ) | TypeScript ( base )
-
--> Learning Zustand.
+  - JavaScript ( good ) | TypeScript ( basics )
+  - Zustand 
   
 ### 💼 Experience / Commercial Experience
 - **Auto QA Engineer** - 4 months
 - **QA Engineer** - 8 months ( freelance )
 
 ### 📫 Let's Connect
-- Telegram: @TrueReady
+- Telegram: [@TrueReady](https://t.me/TrueReady)
 - Email: pad666444@gmail.com
 
 🔄 Last update: February 2026
