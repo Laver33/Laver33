@@ -2,7 +2,7 @@
 Web Developer (Frontend React) and QA 
 
 ### 🛠️ Technologies
-**Web:** React, JavaScript, TypeScript, Zustand, React Query, Firebase, React Router, Tailwind, MUI | Next (learning)
+**Web:** React, JavaScript/TypeScript, Zustand, Axios, Firebase, React Router, Tailwind, MUI.
 **Tools:** Git, VS Code
 
 ### 🌍 Location & Languages
@@ -25,9 +25,9 @@ Web Developer (Frontend React) and QA
 - **Auto QA Engineer** - 4 months
 - **QA Engineer** - 8 months ( freelance )
 
-### 📚 In-depth Study (May - June)
-- **Backend:** Express + TypeScript
-- **Database:** PostgreSQL
+### 📚 In-depth Study ( June )
+- **Backend:** Express.js
+- **Database:** MongoDB
 - **Goal:** Full-stack development (React/Next + Express/PostgreSQL)
 
 ### 📫 Let's Connect
