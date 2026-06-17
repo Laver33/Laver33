@@ -5,7 +5,7 @@ Web Developer with QA background, currently expanding into Full-stack (React + E
 **Web:** 
 - **Frontend:** React, JavaScript/TypeScript, Zustand, Axios, Firebase, React Router, Tailwind, MUI.
 - **Backend:** Express, JavaScript, MongoDB, JWT, Bcrypt.
-**Tools:** Git, VS Code
+- **Tools:** Git, VS Code
 
 ### 🌍 Location & Languages
 - 📍 Grodno, Belarus
