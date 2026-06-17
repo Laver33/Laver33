@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Pavel
-Web Developer with QA background, currently expanding into Full-stack (React/Next + Express/MongoDB).
+Web Developer with QA background, currently expanding into Full-stack (React + Express/MongoDB).
 
 ### 🛠️ Technologies
 **Web:** 
