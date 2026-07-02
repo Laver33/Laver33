@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Pavel
-Web Developer with QA background, currently expanding into Full-stack (React + Express/MongoDB).
+Web Developer with QA background, currently expanding into Full-stack (React.ts + Express.js, MongoDB).
 
 ### 🛠️ Technologies
 **Web:** 
@@ -15,13 +15,14 @@ Web Developer with QA background, currently expanding into Full-stack (React + E
 - **Auto QA Engineer** - 4 months 
 - **QA Engineer** - 8 months ( freelance )
 
-### 📚 In-depth Study ( June )
-- **Backend:** Express.js
-- **Database:** MongoDB
-- **Goal:** Full-stack development (React + Express + MongoDB)
+### 📚 In-depth Study ( July )
+- **Backend:** Express.js and Nest.js 
+- **Database:** PostgeSQL
+- **Goal:** Full-stack development (React + Express/Nest + PostgreSQL)
 
 ### 📫 Let's Connect
 - Telegram: [@TrueReady](https://t.me/TrueReady)
+- Linkedin: [Pavel](https://www.linkedin.com/in/павел-драбеня-4b4b6a357/) 
 - Email: pad666444@gmail.com
 
-🔄 Last update: June 2026
+🔄 Last update: July 2026
